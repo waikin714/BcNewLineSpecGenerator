@@ -1,0 +1,10 @@
+C:\Users\WeiChien.Su\Documents\Visual Studio 2017\Projects\bcNewLineSpec\bcNewLineSpec\obj\Debug\bcNewLineSpec.Properties.Resources.resources
+C:\Users\WeiChien.Su\Documents\Visual Studio 2017\Projects\bcNewLineSpec\bcNewLineSpec\obj\Debug\bcNewLineSpec.csproj.GenerateResource.Cache
+C:\Users\WeiChien.Su\Documents\Visual Studio 2017\Projects\bcNewLineSpec\bcNewLineSpec\obj\Debug\bcNewLineSpec.csproj.CoreCompileInputs.cache
+C:\Users\WeiChien.Su\Documents\Visual Studio 2017\Projects\bcNewLineSpec\bcNewLineSpec\bin\Debug\bcNewLineSpec.exe.config
+C:\Users\WeiChien.Su\Documents\Visual Studio 2017\Projects\bcNewLineSpec\bcNewLineSpec\bin\Debug\bcNewLineSpec.exe
+C:\Users\WeiChien.Su\Documents\Visual Studio 2017\Projects\bcNewLineSpec\bcNewLineSpec\bin\Debug\bcNewLineSpec.pdb
+C:\Users\WeiChien.Su\Documents\Visual Studio 2017\Projects\bcNewLineSpec\bcNewLineSpec\obj\Debug\bcNewLineSpec.exe
+C:\Users\WeiChien.Su\Documents\Visual Studio 2017\Projects\bcNewLineSpec\bcNewLineSpec\obj\Debug\bcNewLineSpec.pdb
+C:\Users\WeiChien.Su\Documents\Visual Studio 2017\Projects\bcNewLineSpec\bcNewLineSpec\obj\Debug\bcNewLineSpec.csprojResolveAssemblyReference.cache
+C:\Users\WeiChien.Su\Documents\Visual Studio 2017\Projects\bcNewLineSpec\bcNewLineSpec\obj\Debug\bcNewLineSpec.MainForm.resources
